@@ -270,13 +270,177 @@
     [ Show modal1 ]*/
     $('.js-show-modal1').on('click',function(e){
         e.preventDefault();
-        $('.js-modal1').addClass('show-modal1');
+        $('.js-modal1').addClass('show-modal');
     });
 
-    $('.js-hide-modal1').on('click',function(){
-        $('.js-modal1').removeClass('show-modal1');
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal1').removeClass('show-modal');
     });
 
+    /*==================================================================
+    [ Show modal2 ]*/
+    $('.js-show-modal2').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal2').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal2').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal3 ]*/
+    $('.js-show-modal3').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal3').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal3').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal4 ]*/
+    $('.js-show-modal4').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal4').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal4').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal5 ]*/
+    $('.js-show-modal5').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal5').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal5').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal6 ]*/
+    $('.js-show-modal6').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal6').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal6').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal7 ]*/
+    $('.js-show-modal7').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal7').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal7').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal8 ]*/
+    $('.js-show-modal8').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal8').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal8').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal9 ]*/
+    $('.js-show-modal9').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal9').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal9').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal10 ]*/
+    $('.js-show-modal10').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal10').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal10').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal11 ]*/
+    $('.js-show-modal11').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal11').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal11').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal12 ]*/
+    $('.js-show-modal12').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal12').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal12').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal13 ]*/
+    $('.js-show-modal13').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal13').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal13').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal14 ]*/
+    $('.js-show-modal14').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal14').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal14').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal15 ]*/
+    $('.js-show-modal15').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal15').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal15').removeClass('show-modal');
+    });
+
+    /*==================================================================
+    [ Show modal16 ]*/
+    $('.js-show-modal16').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal16').addClass('show-modal');
+    });
+
+    $('.js-hide-modal').on('click',function(){
+        $('.js-modal16').removeClass('show-modal');
+    });
 
 
 })(jQuery);
